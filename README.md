@@ -70,7 +70,7 @@ pip install -r requirements.txt
     TELEGRAM_API_TOKEN=ваш_токен_бота
     WEATHER_API_KEY=ваш_ключ_погоды
     EXCHANGE_API_KEY=ваш_ключ_валют
-    X_RAPID_API_KEY=ваш_ключ_имдб
+    X_RAPID_API_KEY=ваш_ключ_IMDB
     ```
 
 2. Запустите бота:
